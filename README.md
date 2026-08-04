@@ -29,10 +29,12 @@ Rentora is a modern full-stack web application designed to simplify rental and p
 - ✅ Initial Project Structure
 - ✅ Main Layout
 - ✅ Navigation Bar
+- ✅ Authentication (JWT)
+- ✅ Landing Page
+- ✅ Login, Register 
 
 ## Upcoming Features
 
-- Authentication (JWT)
 - User Roles
 - Dashboard
 - Property Management
